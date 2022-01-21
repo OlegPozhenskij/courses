@@ -13,3 +13,10 @@ https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0
 		* мат. принцип (-12)//5 и -12 % 5
 		* while(): else: (else = finally)
 		* for x in range(start, stop, step) -> math [start;stop)
+
+Лекция №2:
+	Были изучены:
+		* принципы алгебры логики 
+		* вложенные последовательные if'ы
+		* else не имеет возможности указывать условаие
+		* elif - как решение по избежанию кучи отступов (линеаризации)
